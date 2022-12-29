@@ -1,8 +1,10 @@
 /* Your CSS Code here. */
 .holder
 {
+    height: 90vh;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .item-1
